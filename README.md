@@ -1,8 +1,10 @@
 # BashScript
 Small Bash Script Application
 
-Application created on Linux shell. It asks the user if they want tea, insisting on it if the answer is no - Until, after 5 iterations, giving up.
+Applications created on Linux shell. 
 
-Not much practical use, but a fun little incursion on bash/shell scripting.
+TeaProblme.sh asks the user if they want tea, insisting on it if the answer is no - Until, after 5 iterations, giving up. Not much practical use, but a fun little incursion on bash/shell scripting.
 
-Used an AWS virtual Linux machine to develop it.
+AutomatedScript.sh automates a list of Linux shell commands to be executed at the same time.
+
+Used an AWS virtual Linux machine to develop both applications.
